@@ -24,70 +24,70 @@ const Student = () => {
                         <td>22</td>
                         <td>MERN</td>
                         <td>January</td>
-                        <td><a href=''>Edit</a></td>
+                        <td><a href='/'>Edit</a></td>
                     </tr>
                     <tr height="40px">
                         <td>Vijay</td>
                         <td>22</td>
                         <td>MERN</td>
                         <td>January</td>
-                        <td><a href=''>Edit</a></td>
+                        <td><a href='/'>Edit</a></td>
                     </tr>
                     <tr height="40px">
                         <td>Vijay</td>
                         <td>22</td>
                         <td>MERN</td>
                         <td>January</td>
-                        <td><a href=''>Edit</a></td>
+                        <td><a href='/'>Edit</a></td>
                     </tr>
                     <tr height="40px">
                         <td>Vijay</td>
                         <td>22</td>
                         <td>MERN</td>
                         <td>January</td>
-                        <td><a href=''>Edit</a></td>
+                        <td><a href='/'>Edit</a></td>
                     </tr>
                     <tr height="40px">
                         <td>Vijay</td>
                         <td>22</td>
                         <td>MERN</td>
                         <td>January</td>
-                        <td><a href=''>Edit</a></td>
+                        <td><a href='/'>Edit</a></td>
                     </tr>
                     <tr height="40px">
                         <td>Vijay</td>
                         <td>22</td>
                         <td>MERN</td>
                         <td>January</td>
-                        <td><a href=''>Edit</a></td>
+                        <td><a href='/'>Edit</a></td>
                     </tr>
                     <tr height="40px">
                         <td>Vijay</td>
                         <td>22</td>
                         <td>MERN</td>
                         <td>January</td>
-                        <td><a href=''>Edit</a></td>
+                        <td><a href='/'>Edit</a></td>
                     </tr>
                     <tr height="40px">
                         <td>Vijay</td>
                         <td>22</td>
                         <td>MERN</td>
                         <td>January</td>
-                        <td><a href=''>Edit</a></td>
+                        <td><a href='/'>Edit</a></td>
                     </tr>
                     <tr height="40px">
                         <td>Vijay</td>
                         <td>22</td>
                         <td>MERN</td>
                         <td>January</td>
-                        <td><a href=''>Edit</a></td>
+                        <td><a href='/'>Edit</a></td>
                     </tr>
                     <tr height="40px">
                         <td>Vijay</td>
                         <td>22</td>
                         <td>MERN</td>
                         <td>January</td>
-                        <td><a href=''>Edit</a></td>
+                        <td><a href='/'>Edit</a></td>
                     </tr>
 
                 </table>
@@ -96,4 +96,3 @@ const Student = () => {
     )
 }
 
-export default Student
