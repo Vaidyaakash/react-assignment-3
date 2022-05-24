@@ -35,7 +35,7 @@ const Contact = () => {
           <input type="checkbox" />Hockey
           <input type="checkbox" />Football
         </section><br />
-        <button>Submit</button>
+        <input type="submit" />
       </div>
     </>
   )
