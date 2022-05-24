@@ -6,7 +6,7 @@ const Contact = () => {
     <>
       <Nav />
       <h1 style={{margin:"1rem 4.6rem"}}>Contact Details</h1>
-      <form className="contact">
+      <div className="contact">
         <section className="input_container">
           <label>First Name</label>
           <input type="text"/>
@@ -36,7 +36,7 @@ const Contact = () => {
           <input type="checkbox" />Football
         </section><br />
         <button>Submit</button>
-      </form>
+      </div>
     </>
   )
 }
