@@ -1,7 +1,6 @@
 import React from 'react'
 import Contact from './Pages/Contact'
 import Home from './Pages/Home'
-import Nav from './Pages/Nav'
 import Student from './Pages/Student'
 import Homepage from './Pages/Homepage'
 import { Route, Routes, BrowserRouter } from 'react-router-dom'
